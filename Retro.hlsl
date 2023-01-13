@@ -1,5 +1,4 @@
-    
-// The original retro pixel shader
+
 Texture2D shaderTexture;
 SamplerState samplerState;
 
